@@ -24,6 +24,5 @@ public class AuthorizationController {
         return service.getAuthorities(name, password);
     }
 
-
 }
 
